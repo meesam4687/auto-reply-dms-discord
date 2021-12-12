@@ -1,0 +1,22 @@
+{
+  "name": "auto-reply-dms",
+  "version": "1.0.0",
+  "description": "Auto Reply DM messages with an AFK message",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord", 
+    "javascript",
+    "afk",
+    "discord.js",
+    "self-bot"
+  ],
+  "author": "meesam4687",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot": "^12.0.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
