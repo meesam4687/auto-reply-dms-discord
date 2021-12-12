@@ -11,7 +11,7 @@ Watch this video if you don't know how to get your discord token. (Its just 2 mi
 
 https://youtu.be/YEgFvgg7ZPI
 
-Run The Command `npm install` then `npm start`
+Run The Command `npm install` once its complete then run `npm start`
 
 Check the console and enter your afk message. As shown in the image Below
 
