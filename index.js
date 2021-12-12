@@ -1,6 +1,7 @@
 const Discord = require("discord.js-selfbot");
 const client = new Discord.Client();
 const prompt = require("prompt-sync")();
+require('dotenv').config()
 const msg = prompt("Enter The AFK Message > ")
 
 client.on('ready', () => {
