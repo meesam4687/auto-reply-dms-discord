@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "keywords": [
-    "discord", 
+    "discord",
     "javascript",
     "afk",
     "discord.js",
@@ -17,7 +17,15 @@
   "license": "ISC",
   "dependencies": {
     "discord.js-selfbot": "^12.0.2",
-    "prompt-sync": "^4.2.0",
-    "dotenv": "^10.0.0"
-  }
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meesam4687/auto-reply-dms-discord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/meesam4687/auto-reply-dms-discord/issues"
+  },
+  "homepage": "https://github.com/meesam4687/auto-reply-dms-discord#readme"
 }
