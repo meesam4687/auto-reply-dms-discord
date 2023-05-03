@@ -30,9 +30,7 @@ console.log(`%cYou now have your token in the clipboard!`, 'font-size: 16px');
 ```
 Run The Command `npm install` once its complete then run `npm start`
 
-Check the console and enter your afk message. As shown in the image Below
-
-![image](https://cdn.discordapp.com/attachments/908660842227183628/919617198442553414/unknown.png)
+Check the console and enter your afk message.
 
 Hit enter and then wait a few seconds till you see the message "AFK Thingy Ready.".
 
