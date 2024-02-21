@@ -7,27 +7,9 @@ Create a file called `.env` and enter this
 TOKEN=your_discord_token
 ```
 
-To get your discord token copy and paste this into the discord console. (CTRL + SHIFT + I)
-```js
-window.webpackChunkdiscord_app.push([
-  [Math.random()],
-  {},
-  req => {
-    for (const m of Object.keys(req.c)
-      .map(x => req.c[x].exports)
-      .filter(x => x)) {
-      if (m.default && m.default.getToken !== undefined) {
-        return copy(m.default.getToken());
-      }
-      if (m.getToken !== undefined) {
-        return copy(m.getToken());
-      }
-    }
-  },
-]);
-console.log('%cWorked!', 'font-size: 50px');
-console.log(`%cYou now have your token in the clipboard!`, 'font-size: 16px');
-```
+To get your discord token refer to this <br>
+https://gist.github.com/MarvNC/e601f3603df22f36ebd3102c501116c6
+
 Run The Command `npm install` once its complete then run `npm start`
 
 Check the console and enter your afk message.
